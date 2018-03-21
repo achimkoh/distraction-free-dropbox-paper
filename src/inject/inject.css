@@ -1,0 +1,14 @@
+#main-header-container,
+#padpage-container {
+	transition: ease-out 0.5s;
+}
+
+#hp-page-editor.hp-page-editor-title-offscreen #main-header-container {
+	visibility: hidden;
+	opacity: 0;
+}
+
+#hp-page-editor.hp-page-editor-title-offscreen #padpage-container {
+	margin-top: 0;
+	height: 100%;
+}
