@@ -1,5 +1,5 @@
-chrome.extension.onMessage.addListener(
+browser.extension.onMessage.addListener(
   function(request, sender, sendResponse) {
-  	chrome.pageAction.show(sender.tab.id);
+  	browser.pageAction.show(sender.tab.id);
     sendResponse();
   });

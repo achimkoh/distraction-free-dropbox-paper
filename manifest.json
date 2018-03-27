@@ -1,6 +1,6 @@
 {
   "name": "Distraction-Free Dropbox Paper",
-  "version": "0.1",
+  "version": "0.2",
   "manifest_version": 2,
   "description": "Hide Dropbox Paper's screen header for an even cleaner writing interface",
   "icons": {
@@ -11,8 +11,7 @@
   "background": {
     "scripts": [
       "src/bg/background.js"
-    ],
-    "persistent": false
+    ]
   },
   "content_scripts": [
     {
