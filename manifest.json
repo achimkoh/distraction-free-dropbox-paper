@@ -1,6 +1,6 @@
 {
-  "name": "Distraction-Free Dropbox Paper",
-  "version": "0.2",
+  "name": "Distraction-Free Paper",
+  "version": "0.31",
   "manifest_version": 2,
   "description": "Hide Dropbox Paper's screen header for an even cleaner writing interface",
   "icons": {
