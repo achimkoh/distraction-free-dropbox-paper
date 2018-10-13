@@ -7,4 +7,4 @@ I like Dropbox Paper's interface overall, but that header takes up precious vert
 Chrome extension: https://chrome.google.com/webstore/detail/distraction-free-dropbox/fnahmnjjgbdhbahinnjkjaonpemcijbc
 Firefox add-on: https://addons.mozilla.org/en-US/firefox/addon/distraction-free-dropbox-paper/
 
-This browser extension was made for personal use. The icon is based on the Dropbox Paper Glyph, which belongs to Dropbox, Inc.
+This browser extension was made for personal use. Not affiliated to Dropbox, Inc.
